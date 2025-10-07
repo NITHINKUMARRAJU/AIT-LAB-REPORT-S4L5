@@ -19,3 +19,4 @@ def bfs(visited,graph,node):
                 queue.append(neighbour)
 print("Following is the BFS traversal starting from node 5:")
 bfs(visited,graph, '5')
+
